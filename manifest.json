@@ -1,0 +1,22 @@
+{
+  "name": "JumpCloud Applications",
+  "description": "JumpCloud Applications",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "host_permissions": ["https://console.jumpcloud.com/"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/logo_48.png",
+      "32": "/images/logo_48.png",
+      "48": "/images/logo_48.png",
+      "128": "/images/logo_48.png"
+    }
+  },
+  "icons": {
+    "16": "/images/logo_48.png",
+    "32": "/images/logo_48.png",
+    "48": "/images/logo_48.png",
+    "128": "/images/logo_48.png"
+  }
+}
