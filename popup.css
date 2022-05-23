@@ -58,6 +58,7 @@ li {
 }
 
 #login {
+  text-align: center;
   margin: 40px auto;
   width: 150px;
   display: none;
